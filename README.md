@@ -78,13 +78,11 @@ $ tail -n 3 ~/research/disclosure.log     # coordinated · fixed/accepted · cre
 | **Université de Strasbourg** · `unistra.fr` | Reflected XSS `CWE-79` | ✅ [Hall of Fame →](https://unistra.fr/.well-known/hall-of-fame.txt) |
 | **Utrecht University** · `uu.nl` | Info Disclosure | ⏳ Hall of Fame — listing live Oct 2026 |
 
-<sub>
-
-- **OpenStreetMap** — arbitrary `.yml` file disclosure through the account-terms endpoint (`legal_text_for_country`); patch merged by the core team and publicly credited in the OSMF monthly recap.
-- **Université de Strasbourg** — reflected XSS on the administrator login page of the ORSEE platform; coordinated via `security@unistra.fr` (CVSS 7.4, High), listed in the university Hall of Fame.
-- **Utrecht University** — unauthenticated Laravel debug page exposed on university infrastructure; coordinated via `responsible.disclosure@uu.nl`, Hall of Fame entry pending October 2026.
-
-</sub>
+> **OpenStreetMap** — arbitrary `.yml` file disclosure through the account-terms endpoint (`legal_text_for_country`); patch merged by the core team and publicly credited in the OSMF monthly recap.
+>
+> **Université de Strasbourg** — reflected XSS on the administrator login page of the ORSEE platform; coordinated via `security@unistra.fr` (CVSS 7.4, High), listed in the university Hall of Fame.
+>
+> **Utrecht University** — unauthenticated Laravel debug page exposed on university infrastructure; coordinated via `responsible.disclosure@uu.nl`, Hall of Fame entry pending October 2026.
 
 <div align="center">
 
