@@ -68,16 +68,33 @@ PRINCIPLE   : "Build it from scratch, or you never really learned it."
 
 ### `▸ 04` &nbsp; DISCLOSURE & RECOGNITION
 
-> **OpenStreetMap** — reported a path traversal vulnerability allowing unauthorized file reads on `openstreetmap.org`.
-> Fix shipped by the OSM website maintainers, with public credit in their official changelog.
->
-> [`community.openstreetmap.org →`](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47)
+```console
+$ tail -n 3 ~/research/disclosure.log     # coordinated · fixed/accepted · credited
+```
+
+| Target | Class | Recognition |
+| :--- | :--- | :--- |
+| **OpenStreetMap** · `openstreetmap.org` | Path Traversal `CWE-22` | ✅ [Credited — OSMF monthly recap →](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47) |
+| **Université de Strasbourg** · `unistra.fr` | Reflected XSS `CWE-79` | ✅ [Hall of Fame →](https://unistra.fr/.well-known/hall-of-fame.txt) |
+| **Utrecht University** · `uu.nl` | Info Disclosure | ⏳ Hall of Fame — listing live Oct 2026 |
+
+<sub>
+
+- **OpenStreetMap** — arbitrary `.yml` file disclosure through the account-terms endpoint (`legal_text_for_country`); patch merged by the core team and publicly credited in the OSMF monthly recap.
+- **Université de Strasbourg** — reflected XSS on the administrator login page of the ORSEE platform; coordinated via `security@unistra.fr` (CVSS 7.4, High), listed in the university Hall of Fame.
+- **Utrecht University** — unauthenticated Laravel debug page exposed on university infrastructure; coordinated via `responsible.disclosure@uu.nl`, Hall of Fame entry pending October 2026.
+
+</sub>
 
 <div align="center">
 
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Path%20Traversal%20·%20Credited-0d1117?style=for-the-badge&logo=openstreetmap&logoColor=ff8c42&labelColor=0d1117&color=ff8c42)](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47)
+[![Strasbourg](https://img.shields.io/badge/Université%20de%20Strasbourg-Reflected%20XSS%20·%20Hall%20of%20Fame-0d1117?style=for-the-badge&labelColor=0d1117&color=a78bfa)](https://unistra.fr/.well-known/hall-of-fame.txt)
+![Utrecht](https://img.shields.io/badge/Utrecht%20University-Info%20Disclosure%20·%20Oct%202026-0d1117?style=for-the-badge&labelColor=0d1117&color=00d9ff)
 
 </div>
+
+<sub>All findings were reported through official Responsible Disclosure / VDP channels and coordinated with the affected organizations prior to any publication.</sub>
 
 ---
 
