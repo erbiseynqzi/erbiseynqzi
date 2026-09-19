@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Turgay Memmedli - Junior Penetration Tester">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Turgay Mammadli - Junior Penetration Tester">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#04060c"/>
@@ -155,14 +155,14 @@
 
   <!-- extruded 3D title -->
   <g class="sans" text-anchor="middle" font-weight="700" letter-spacing="5">
-    <text x="507" y="127" font-size="54" fill="#1e1145">TURGAY MEMMEDLI</text>
-    <text x="506" y="126" font-size="54" fill="#2a1a5e">TURGAY MEMMEDLI</text>
-    <text x="505" y="125" font-size="54" fill="#35237a">TURGAY MEMMEDLI</text>
-    <text x="504" y="124" font-size="54" fill="#3f2b91">TURGAY MEMMEDLI</text>
-    <text x="503" y="123" font-size="54" fill="#4a34a8">TURGAY MEMMEDLI</text>
-    <text x="502" y="122" font-size="54" fill="#553dbf">TURGAY MEMMEDLI</text>
-    <text x="501" y="121" font-size="54" fill="#6046d6">TURGAY MEMMEDLI</text>
-    <text x="500" y="120" font-size="54" fill="url(#title)" filter="url(#glow)">TURGAY MEMMEDLI</text>
+    <text x="507" y="127" font-size="54" fill="#1e1145">Turgay Mammadli</text>
+    <text x="506" y="126" font-size="54" fill="#2a1a5e">Turgay Mammadli</text>
+    <text x="505" y="125" font-size="54" fill="#35237a">Turgay Mammadli</text>
+    <text x="504" y="124" font-size="54" fill="#3f2b91">Turgay Mammadli</text>
+    <text x="503" y="123" font-size="54" fill="#4a34a8">Turgay Mammadli</text>
+    <text x="502" y="122" font-size="54" fill="#553dbf">Turgay Mammadli</text>
+    <text x="501" y="121" font-size="54" fill="#6046d6">Turgay Mammadli</text>
+    <text x="500" y="120" font-size="54" fill="url(#title)" filter="url(#glow)">Turgay Mammadli</text>
   </g>
 
   <!-- subtitle + credentials -->
