@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Turgay Memmedli — Junior Penetration Tester"/>
+<img src="assets/banner.svg" width="100%" alt="Turgay Mammadli — Penetration Tester"/>
 
-<a href="https://linkedin.com/in/turqay-memmedli-58296a357"><img src="https://img.shields.io/badge/LinkedIn-Turgay%20Memmedli-0d1117?style=flat-square&logo=linkedin&logoColor=00d9ff&labelColor=0d1117"/></a>
+<a href="https://linkedin.com/in/turgay-mammadli-58296a357"><img src="https://img.shields.io/badge/LinkedIn-Turgay%20Mammadli-0d1117?style=flat-square&logo=linkedin&logoColor=00d9ff&labelColor=0d1117"/></a>
 <a href="mailto:turqaymemmedli01@gmail.com"><img src="https://img.shields.io/badge/Contact-turqaymemmedli01%40gmail.com-0d1117?style=flat-square&logo=maildotru&logoColor=ff8c42&labelColor=0d1117"/></a>
 <img src="https://komarev.com/ghpvc/?username=erbiseynqzi&label=Visitors&color=6d28d9&style=flat-square&labelColor=0d1117"/>
 
@@ -14,10 +14,10 @@
 
 ```bash
 $ whoami
-turgay_memmedli — junior penetration tester
+turgay_mammadli — penetration tester
 
 $ cat ~/.operator_profile
-ROLE        : Junior Penetration Tester
+ROLE        : Penetration Tester
 EDUCATION   : Information Security student, Azerbaijan (grad. 2027)
 TRAINING    : 435+ hours of hands-on offensive security
 DOMAINS     : ( web_application · active_directory · network · red_team_infra )
@@ -77,12 +77,6 @@ $ tail -n 3 ~/research/disclosure.log     # coordinated · fixed/accepted · cre
 | **OpenStreetMap** · `openstreetmap.org` | Path Traversal `CWE-22` | ✅ [Credited — OSMF monthly recap →](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47) |
 | **Université de Strasbourg** · `unistra.fr` | Reflected XSS `CWE-79` | ✅ [Hall of Fame →](https://unistra.fr/.well-known/hall-of-fame.txt) |
 | **Utrecht University** · `uu.nl` | Info Disclosure | ⏳ Hall of Fame — listing live Oct 2026 |
-
-> **OpenStreetMap** — arbitrary `.yml` file disclosure through the account-terms endpoint (`legal_text_for_country`); patch merged by the core team and publicly credited in the OSMF monthly recap.
->
-> **Université de Strasbourg** — reflected XSS on the administrator login page of the ORSEE platform; coordinated via `security@unistra.fr` (CVSS 7.4, High), listed in the university Hall of Fame.
->
-> **Utrecht University** — unauthenticated Laravel debug page exposed on university infrastructure; coordinated via `responsible.disclosure@uu.nl`, Hall of Fame entry pending October 2026.
 
 <div align="center">
 
