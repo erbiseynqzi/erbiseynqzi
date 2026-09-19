@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Turgay Mammadli — Penetration Tester"/>
+<img src="assets/banner.svg" width="100%" alt="Turgay Mammadli — Junior Penetration Tester"/>
 
 <a href="https://linkedin.com/in/turgay-mammadli-58296a357"><img src="https://img.shields.io/badge/LinkedIn-Turgay%20Mammadli-0d1117?style=flat-square&logo=linkedin&logoColor=00d9ff&labelColor=0d1117"/></a>
 <a href="mailto:turqaymemmedli01@gmail.com"><img src="https://img.shields.io/badge/Contact-turqaymemmedli01%40gmail.com-0d1117?style=flat-square&logo=maildotru&logoColor=ff8c42&labelColor=0d1117"/></a>
@@ -14,10 +14,10 @@
 
 ```bash
 $ whoami
-turgay_mammadli — penetration tester
+turgay_mammadli — junior penetration tester
 
 $ cat ~/.operator_profile
-ROLE        : Penetration Tester
+ROLE        : Junior Penetration Tester
 EDUCATION   : Information Security student, Azerbaijan (grad. 2027)
 TRAINING    : 435+ hours of hands-on offensive security
 DOMAINS     : ( web_application · active_directory · network · red_team_infra )
