@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Turgay Mammadli — Junior Penetration Tester"/>
+<img src="assets/banner.svg" width="100%" alt="Turgay Memmedli — Junior Penetration Tester"/>
 
 <a href="https://linkedin.com/in/turgay-mammadli-58296a357"><img src="https://img.shields.io/badge/LinkedIn-Turgay%20Mammadli-0d1117?style=flat-square&logo=linkedin&logoColor=00d9ff&labelColor=0d1117"/></a>
 <a href="mailto:turqaymemmedli01@gmail.com"><img src="https://img.shields.io/badge/Contact-turqaymemmedli01%40gmail.com-0d1117?style=flat-square&logo=maildotru&logoColor=ff8c42&labelColor=0d1117"/></a>
@@ -14,7 +14,7 @@
 
 ```bash
 $ whoami
-turgay_mammadli — junior penetration tester
+turgay_memmedli — junior penetration tester
 
 $ cat ~/.operator_profile
 ROLE        : Junior Penetration Tester
@@ -75,13 +75,13 @@ $ tail -n 3 ~/research/disclosure.log     # coordinated · fixed/accepted · cre
 | Target | Class | Recognition |
 | :--- | :--- | :--- |
 | **OpenStreetMap** · `openstreetmap.org` | Path Traversal `CWE-22` | ✅ [Credited — OSMF monthly recap →](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47) |
-| **Université de Strasbourg** · `unistra.fr` | Reflected XSS `CWE-79` | ✅ [Hall of Fame →](https://unistra.fr/.well-known/hall-of-fame.txt) |
+| **Université de Strasbourg** · `unistra.fr` | Reflected XSS `CWE-79` + 2× Info Disclosure | ✅ [Hall of Fame ×3 →](https://unistra.fr/.well-known/hall-of-fame.txt) |
 | **Utrecht University** · `uu.nl` | Info Disclosure | ⏳ Hall of Fame — listing live Oct 2026 |
 
 <div align="center">
 
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Path%20Traversal%20·%20Credited-0d1117?style=for-the-badge&logo=openstreetmap&logoColor=ff8c42&labelColor=0d1117&color=ff8c42)](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47)
-[![Strasbourg](https://img.shields.io/badge/Université%20de%20Strasbourg-Reflected%20XSS%20·%20Hall%20of%20Fame-0d1117?style=for-the-badge&labelColor=0d1117&color=a78bfa)](https://unistra.fr/.well-known/hall-of-fame.txt)
+[![Strasbourg](https://img.shields.io/badge/Université%20de%20Strasbourg-3%20Findings%20·%20Hall%20of%20Fame-0d1117?style=for-the-badge&labelColor=0d1117&color=a78bfa)](https://unistra.fr/.well-known/hall-of-fame.txt)
 ![Utrecht](https://img.shields.io/badge/Utrecht%20University-Info%20Disclosure%20·%20Oct%202026-0d1117?style=for-the-badge&labelColor=0d1117&color=00d9ff)
 
 </div>
