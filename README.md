@@ -75,13 +75,13 @@ $ tail -n 3 ~/research/disclosure.log     # coordinated · fixed/accepted · cre
 | Target | Class | Recognition |
 | :--- | :--- | :--- |
 | **OpenStreetMap** · `openstreetmap.org` | Path Traversal `CWE-22` | ✅ [Credited — OSMF monthly recap →](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47) |
-| **Université de Strasbourg** · `unistra.fr` | Reflected XSS `CWE-79` + 2× Info Disclosure | ✅ [Hall of Fame ×3 →](https://unistra.fr/.well-known/hall-of-fame.txt) |
+| **Université de Strasbourg** · `unistra.fr` | Authenticated RCE `CWE-95` · Reflected XSS · 2× Info Disclosure | ✅ [Hall of Fame ×4 →](https://unistra.fr/.well-known/hall-of-fame.txt) |
 | **Utrecht University** · `uu.nl` | Info Disclosure | ⏳ Hall of Fame — listing live Oct 2026 |
 
 <div align="center">
 
 [![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Path%20Traversal%20·%20Credited-0d1117?style=for-the-badge&logo=openstreetmap&logoColor=ff8c42&labelColor=0d1117&color=ff8c42)](https://community.openstreetmap.org/t/what-s-new-on-the-openstreetmap-website/130080/47)
-[![Strasbourg](https://img.shields.io/badge/Université%20de%20Strasbourg-3%20Findings%20·%20Hall%20of%20Fame-0d1117?style=for-the-badge&labelColor=0d1117&color=a78bfa)](https://unistra.fr/.well-known/hall-of-fame.txt)
+[![Strasbourg](https://img.shields.io/badge/Université%20de%20Strasbourg-Authenticated%20RCE%20·%20Hall%20of%20Fame%20×4-0d1117?style=for-the-badge&labelColor=0d1117&color=a78bfa)](https://unistra.fr/.well-known/hall-of-fame.txt)
 ![Utrecht](https://img.shields.io/badge/Utrecht%20University-Info%20Disclosure%20·%20Oct%202026-0d1117?style=for-the-badge&labelColor=0d1117&color=00d9ff)
 
 </div>
